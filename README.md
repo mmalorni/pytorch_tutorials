@@ -7,7 +7,7 @@ Welcome to this comprehensive repository where we delve into the world of PyTorc
 
 💡 **Your Contribution Matters**: Suggestions, contributions, and issue reporting are highly encouraged to enhance this learning resource.
 
-🎞 **YouTube Playlist: **
+🎥 **YouTube Playlist:**
 https://www.youtube.com/playlist?list=PLJkTL1PoB-w7FCD4VxXinhqX8vbgZL8_J
 
 ## Contents 📖
